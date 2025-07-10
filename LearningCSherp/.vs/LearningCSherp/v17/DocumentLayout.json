@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Learning\\CSharp_handson\\LearningCSherp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5575B491-5BD8-4B8E-850F-B7AEC2E0BEB1}|LearningCSherp\\LearningCSherp.csproj|e:\\learning\\csharp_handson\\learningcsherp\\learningcsherp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5575B491-5BD8-4B8E-850F-B7AEC2E0BEB1}|LearningCSherp\\LearningCSherp.csproj|solutionrelative:learningcsherp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Learning\\CSharp_handson\\LearningCSherp\\LearningCSherp\\Program.cs",
+              "RelativeDocumentMoniker": "LearningCSherp\\Program.cs",
+              "ToolTip": "E:\\Learning\\CSharp_handson\\LearningCSherp\\LearningCSherp\\Program.cs",
+              "RelativeToolTip": "LearningCSherp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:59:44.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
